@@ -109,7 +109,9 @@ docker run -d \
 - Örnek Chromium Docker Compose yml : https://github.com/FurkanL0/Extention
 
 - Burada environment: kısmınan altında yerleştiriyoruz. 
-
+```bash
+nano docker-compose.yaml
+```
 #### Son hali böyle oluyor :
 
 #### HTTPS : 
@@ -167,5 +169,33 @@ services:
     shm_size: "1gb"
     restart: unless-stopped
 ```
+
+Hali Hazırda Kurulu İse Docker Durdurun Sonra Yeniden başlatın : 
+
+```bash
+cd chromium
+```
+
+```bash
+docker compose down -v
+```
+
+```bash
+docker compose up -d
+```
+
+
+#### Panelinize girdiğinizde Sizden Proxy Username ve Proxy Şifre İsteyecek - webshare yada hangi sağlayıcınınkini kullanıyorsanız bilgileri girin - onaylayın.
+
+![resim](https://github.com/user-attachments/assets/7db5c6e8-3ee7-497e-917d-5e72dae40634)
+
+#### Çalıştığını Nasıl Anlarız ? İp Konrolü :F
+
+- Link : https://ipaddress.gg/
+
+![resim](https://github.com/user-attachments/assets/25a912ef-2ed4-4fa4-a340-20243ce1a75b)
+
+#### Başarılı Bir şekilde çalışıyor.
+
 
 
