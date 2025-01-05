@@ -1,3 +1,9 @@
+# Sunucu Proxy Kurulum : 
 
 
-Ücretsiz 10 Adet Günlük Proxy : ![resim](https://github.com/user-attachments/assets/7f2fcb95-560c-4249-a866-59dc7ba50d39)
+![resim](https://github.com/user-attachments/assets/26031c4a-46d9-4bbe-9814-ddce9baa480a)
+
+
+##### Ücretsiz 10 Adet Günlük Proxy : https://www.webshare.io/?referral_code=xn5elzbhniup
+
+
