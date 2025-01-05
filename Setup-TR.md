@@ -109,6 +109,12 @@ docker run -d \
 - Örnek Chromium Docker Compose yml : https://github.com/FurkanL0/Extention
 
 - Burada environment: kısmınan altında yerleştiriyoruz. 
+
+
+```bash
+cd chromium
+```
+
 ```bash
 nano docker-compose.yaml
 ```
@@ -173,7 +179,7 @@ services:
 Hali Hazırda Kurulu İse Docker Durdurun Sonra Yeniden başlatın : 
 
 ```bash
-cd chromium
+cd $HOME && cd chromium
 ```
 
 ```bash
