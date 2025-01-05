@@ -203,5 +203,6 @@ docker compose up -d
 
 #### Başarılı Bir şekilde çalışıyor.
 
+![resim](https://github.com/user-attachments/assets/62c8bc9c-9199-4cd1-b73e-656476bf7f56)
 
 
